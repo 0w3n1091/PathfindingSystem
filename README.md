@@ -1,4 +1,5 @@
 # PathfindingSystem
+
 PL:
 Projekt systemu wyszukiwania drogi na wzór gier turowych takich jak Heroes of Might and Magic i Gloomhaven, który powstał z myślą o wykorzystaniu go w przyszłym projekcie.
 Pozwala on na wybór algorytmu wyszukiwania z trzech dostępnych: Przeszukiwanie wszerz, Algorytm zachłanny i A* oraz posiada system detekcji przeszkód. 
@@ -19,3 +20,6 @@ Left Mouse Button (LMB) - Start path
 Right Mouse Button (RMB) - End path
 Middle Mouse Button (MMB) - Place obstacle
 In the GameBoardConfig, it's possible to change the search algorithm, grid size, and constraints related to diagonal movement.
+
+![image](https://github.com/0w3n1091/PathfindingSystem/assets/59802118/86dfbb3c-5547-4111-a6ff-48baa635a447)
+
